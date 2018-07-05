@@ -1,0 +1,27 @@
+﻿<Window x:Class="Los_Monos.Login"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Los_Monos"
+        mc:Ignorable="d"
+        Title="Login" Height="403.893" Width="368.908" WindowStyle="None">
+    <Window.Background>
+        <ImageBrush ImageSource="Wallpaper software.png"/>
+    </Window.Background>
+    <Grid HorizontalAlignment="Left" VerticalAlignment="Top" Height="412" Width="345" Margin="10,0,0,0">
+        <Grid.Background>
+            <ImageBrush ImageSource="Wallpaper software.png"/>
+        </Grid.Background>
+        <TextBox x:Name="txtusu" HorizontalAlignment="Left" Height="23" Margin="107,189,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="141"/>
+        <TextBox x:Name="txtpass" HorizontalAlignment="Left" Height="23" Margin="107,237,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="141"/>
+        <Button Content="Log in" HorizontalAlignment="Left" Margin="128,276,0,0" VerticalAlignment="Top" Width="97" RenderTransformOrigin="0.273,-1.285" Click="Button_Click" FontFamily="Tw Cen MT" Height="34" FontSize="18"/>
+        <Label Content="Inicio de Sesion" HorizontalAlignment="Left" Margin="66,57,0,0" VerticalAlignment="Top" FontFamily="Tw Cen MT" FontSize="36"/>
+        <Label Content="Nombre de usuario&#xA;" HorizontalAlignment="Left" Margin="112.201,165,0,0" VerticalAlignment="Top" Width="135.799" Height="24" FontFamily="Tw Cen MT" FontSize="16"/>
+        <Label Content="Contraseña&#xA;" HorizontalAlignment="Left" Margin="136,212,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.126,0.135" Height="25" FontFamily="Tw Cen MT" FontSize="16">
+            <Label.Background>
+                <ImageBrush/>
+            </Label.Background>
+        </Label>
+    </Grid>
+</Window>

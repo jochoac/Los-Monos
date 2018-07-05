@@ -1,0 +1,5 @@
+C:\Users\NICOLAS\source\repos\Los Monos\Datos\bin\Debug\Datos.dll
+C:\Users\NICOLAS\source\repos\Los Monos\Datos\bin\Debug\Datos.pdb
+C:\Users\NICOLAS\source\repos\Los Monos\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\NICOLAS\source\repos\Los Monos\Datos\obj\Debug\Datos.dll
+C:\Users\NICOLAS\source\repos\Los Monos\Datos\obj\Debug\Datos.pdb

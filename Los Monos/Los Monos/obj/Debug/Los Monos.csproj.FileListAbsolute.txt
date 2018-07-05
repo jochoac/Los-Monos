@@ -1,0 +1,24 @@
+C:\Users\NICOLAS\source\repos\Los Monos\Los Monos\bin\Debug\Los Monos.exe.config
+C:\Users\NICOLAS\source\repos\Los Monos\Los Monos\bin\Debug\Los Monos.exe
+C:\Users\NICOLAS\source\repos\Los Monos\Los Monos\bin\Debug\Los Monos.pdb
+C:\Users\NICOLAS\source\repos\Los Monos\Los Monos\obj\Debug\Los Monos.csprojAssemblyReference.cache
+C:\Users\NICOLAS\source\repos\Los Monos\Los Monos\obj\Debug\App.g.cs
+C:\Users\NICOLAS\source\repos\Los Monos\Los Monos\obj\Debug\Los Monos_MarkupCompile.cache
+C:\Users\NICOLAS\source\repos\Los Monos\Los Monos\obj\Debug\Los Monos_MarkupCompile.lref
+C:\Users\NICOLAS\source\repos\Los Monos\Los Monos\obj\Debug\Los Monos.g.resources
+C:\Users\NICOLAS\source\repos\Los Monos\Los Monos\obj\Debug\Los_Monos.Properties.Resources.resources
+C:\Users\NICOLAS\source\repos\Los Monos\Los Monos\obj\Debug\Los Monos.csproj.GenerateResource.cache
+C:\Users\NICOLAS\source\repos\Los Monos\Los Monos\obj\Debug\Los Monos.csproj.CoreCompileInputs.cache
+C:\Users\NICOLAS\source\repos\Los Monos\Los Monos\obj\Debug\Los Monos.exe
+C:\Users\NICOLAS\source\repos\Los Monos\Los Monos\obj\Debug\Los Monos.pdb
+C:\Users\NICOLAS\source\repos\Los Monos\Los Monos\bin\Debug\Logica.dll
+C:\Users\NICOLAS\source\repos\Los Monos\Los Monos\bin\Debug\Datos.dll
+C:\Users\NICOLAS\source\repos\Los Monos\Los Monos\bin\Debug\Logica.pdb
+C:\Users\NICOLAS\source\repos\Los Monos\Los Monos\bin\Debug\Datos.pdb
+C:\Users\NICOLAS\source\repos\Los Monos\Los Monos\obj\Debug\Los Monos.csproj.CopyComplete
+C:\Users\NICOLAS\source\repos\Los Monos\Los Monos\obj\Debug\Login.g.cs
+C:\Users\NICOLAS\source\repos\Los Monos\Los Monos\obj\Debug\Menu.g.cs
+C:\Users\NICOLAS\source\repos\Los Monos\Los Monos\obj\Debug\Login.baml
+C:\Users\NICOLAS\source\repos\Los Monos\Los Monos\obj\Debug\Menu.baml
+C:\Users\NICOLAS\source\repos\Los Monos\Los Monos\obj\Debug\Registrar Mercancia.g.cs
+C:\Users\NICOLAS\source\repos\Los Monos\Los Monos\obj\Debug\Registrar Mercancia.baml

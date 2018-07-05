@@ -1,0 +1,38 @@
+﻿<Window x:Class="Los_Monos.Gestión_de_datos"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Los_Monos"
+        mc:Ignorable="d"
+        Title="Gestión_de_datos" Height="524.82" Width="800" FontFamily="Tw Cen MT" WindowStyle="None">
+    <Window.Background>
+        <ImageBrush ImageSource="Wallpaper software.png"/>
+    </Window.Background>
+    <Grid Margin="0,0,-8,3">
+        <ComboBox HorizontalAlignment="Left" Margin="298,34,0,0" VerticalAlignment="Top" Width="148" Height="29">
+            <ComboBoxItem Content="Empleado" FontSize="14" FontFamily="Tw Cen MT"/>
+            <ComboBoxItem Content="Producto" FontSize="14" FontFamily="Tw Cen MT"/>
+        </ComboBox>
+        <Label Content="¿Qué es lo que desea Actualizar?" HorizontalAlignment="Left" Margin="34,33,0,0" VerticalAlignment="Top" FontFamily="Tw Cen MT" FontSize="18"/>
+        <Rectangle Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="122" Margin="10,84.402,0,0" Stroke="Black" VerticalAlignment="Top" Width="772"/>
+        <DataGrid HorizontalAlignment="Left" Height="264" Margin="10,240,0,0" VerticalAlignment="Top" Width="772"/>
+        <Button Content="Actualizar" HorizontalAlignment="Left" Margin="662,158,0,0" VerticalAlignment="Top" Width="92" Height="30" FontSize="18"/>
+        <ComboBox HorizontalAlignment="Left" Margin="473,158,0,0" VerticalAlignment="Top" Width="120" RenderTransformOrigin="0.494,0.493" Height="30"/>
+        <TextBox HorizontalAlignment="Left" Height="30" Margin="34,159,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="119" FontSize="16"/>
+        <TextBox HorizontalAlignment="Left" Height="30" Margin="185,158,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" FontSize="16"/>
+        <TextBox HorizontalAlignment="Left" Height="30" Margin="327,158,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="119" FontSize="16"/>
+        <Label Content="Nombre" HorizontalAlignment="Left" Margin="60,134,0,0" VerticalAlignment="Top" FontFamily="Tw Cen MT" FontSize="18" Width="68"/>
+        <Label Content="Marca" HorizontalAlignment="Left" Margin="216,133,0,0" VerticalAlignment="Top" FontFamily="Tw Cen MT" FontSize="18" Width="57"/>
+        <Label Content="Cantidad" HorizontalAlignment="Left" Margin="351,133,0,0" VerticalAlignment="Top" FontFamily="Tw Cen MT" FontSize="18"/>
+        <Label Content="Estado" HorizontalAlignment="Left" Margin="505,133,0,0" VerticalAlignment="Top" FontFamily="Tw Cen MT" FontSize="18"/>
+        <TextBox HorizontalAlignment="Left" Height="30" Margin="645,96.412,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="119" FontSize="16"/>
+        <Button HorizontalAlignment="Left" Margin="596.038,89.206,0,0" VerticalAlignment="Top" Width="43.962" Height="44.412" FontSize="18">
+            <Image HorizontalAlignment="Left" Height="44" VerticalAlignment="Top" Width="40" Source="Search Icon.png" RenderTransformOrigin="2.737,0.294"/>
+        </Button>
+        <Button HorizontalAlignment="Left" Margin="723.627,10,0,0" VerticalAlignment="Top" Width="58.373" Height="66.009" FontSize="18" Click="Button_Click">
+            <Image HorizontalAlignment="Left" Height="52.6" VerticalAlignment="Top" Width="52.965" Source="back-4-icon.png"/>
+        </Button>
+
+    </Grid>
+</Window>
